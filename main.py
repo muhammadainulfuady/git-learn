@@ -4,8 +4,6 @@ mahasiswa = {
     "hobi":"Ngoding"
 }
 
-
-
 def searchKosonan(data):
     temp = []
     kosonan = "aiueoAIUEO"
