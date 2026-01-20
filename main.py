@@ -1,5 +1,5 @@
 mahasiswa = {
     "nama":"Muhammad Ainul Fuady",
-    "jurusan":"Teknik Informatika",
+    "jurusan":"Teknik Mesin",
     "hobi":"Ngoding"
 }
